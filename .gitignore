@@ -12,6 +12,7 @@ config.py
 __pycache__/
 *.py[cod]
 *$py.class
+db_uploader.py
 
 # C extensions
 *.so
